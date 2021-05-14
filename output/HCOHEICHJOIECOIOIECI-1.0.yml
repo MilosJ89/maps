@@ -1,0 +1,56 @@
+chapters:
+- chapters:
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: TEst4
+        path: ''
+        type: MANUAL_CHAPTER
+      - chapters: []
+        name: ''
+        path: ''
+        type: MANUAL_CHAPTER
+      name: Test
+      path: ''
+      type: MANUAL_CHAPTER
+    name: Test
+    path: ''
+    type: MANUAL_CHAPTER
+  name: Test
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters:
+  - chapters:
+    - chapters: []
+      name: Development server
+      path: README.md
+      type: MARKDOWN_CHAPTER_ITEM
+    - chapters: []
+      name: Code scaffolding
+      path: README.md
+      type: MARKDOWN_CHAPTER_ITEM
+    - chapters: []
+      name: Build
+      path: README.md
+      type: MARKDOWN_CHAPTER_ITEM
+    - chapters: []
+      name: Running unit tests
+      path: README.md
+      type: MARKDOWN_CHAPTER_ITEM
+    - chapters: []
+      name: Running end-to-end tests
+      path: README.md
+      type: MARKDOWN_CHAPTER_ITEM
+    - chapters: []
+      name: Further help
+      path: README.md
+      type: MARKDOWN_CHAPTER_ITEM
+    name: TestMaps
+    path: README.md
+    type: MARKDOWN_CHAPTER_ITEM
+  name: README.md
+  path: README.md
+  type: MARKDOWN_CHAPTER
+name: ROOT
+path: null
+type: null
